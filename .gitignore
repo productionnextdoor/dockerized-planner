@@ -1,0 +1,11 @@
+.vscode
+.idea
+jsonFiles
+planner_venv
+planner.code-workspace
+.dockerignore
+Dockerfile
+Examples
+jsonFilesExamples
+realExamples
+.DS_Store
